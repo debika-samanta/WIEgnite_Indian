@@ -1,0 +1,4 @@
+pip install pyttxs3        for speech from the machine
+pip install speechRecognization      for taking voice input
+pip install opencv-python        for using the web cam
+pip install pywhatkit        for sending message to respective authority
